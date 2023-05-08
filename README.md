@@ -10,7 +10,7 @@
 
 ### 👨‍💻 Acerca de mí :
 
-- 📝 Regularmente subo videos a : [----------](---------------)
+- 📝 Regularmente subo videos a : ------------
 
 - 💬 Pregúntame acerca de **Linux, Python, Bash, Pentesting, Ethical Hacking**
 
