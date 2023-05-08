@@ -18,7 +18,7 @@
 
 - 🌱 Actualmente me estoy preparando para las certificaciones **eCPPTv2, eWPT, OSCP**
 
-- 🌐 Sitio web [https://crossmarkx.github.io](crossmarkx.github.io)
+- 🌐 Subo write-ups de CTFs en [https://crossmarkx.github.io](crossmarkx.github.io)
 
 ------
 
