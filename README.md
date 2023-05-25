@@ -14,7 +14,7 @@
 
 - 💬 Pregúntame acerca de **Linux, Python, Bash, Pentesting, Ethical Hacking**
 
-- 📫 Cómo contactarme **ariva08@hotmail.com**
+- 📫 Cómo contactarme **leyvidgarrom@gmail.com**
 
 - 🌱 Actualmente me estoy preparando para las certificaciones **eCPPTv2, eWPT, OSCP**
 
